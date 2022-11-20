@@ -1,0 +1,18 @@
+{
+    "user1":{
+        "id":1,
+        "name":"handwash"
+    },
+    "user2":{
+        "id":2,
+        "name":"medicines"
+    },
+    "user3":{
+        "id":3,
+        "name":"homeware"
+    },
+    "user4":{
+        "id":4,
+        "name":"eletronics"
+    }
+    }
